@@ -1,0 +1,49 @@
+body {
+  background-color: rgba(241, 242, 244);
+
+}
+
+.card-text {
+  color: #333333;
+  /* Define a cor do texto do link como preto */
+}
+
+
+.card-title {
+  color: #333333;
+  /* Define a cor do texto do link como preto */
+}
+
+.titulo {
+  color: #333333;
+}
+
+.paragrafo {
+  color: #333333;
+}
+
+/* Estilos para o modo de contraste escuro */
+body.dark {
+  background-color: #333333;
+  color: #f1f2f4;
+}
+
+.content {
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+body.dark .light {
+  background-color: #333333;
+  color: #f1f2f4;
+}
+
+body.dark .titulo {
+  background-color: #333333;
+  color: #f1f2f4;
+}
+
+body.dark .paragrafo {
+  background-color: #333333;
+  color: #f1f2f4;
+}
